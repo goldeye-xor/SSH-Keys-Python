@@ -4,4 +4,4 @@ Pour utiliser ce programme exécuter :
 py keys.py
 
 Vous pourrez alors choisir une longueur de bits pour votre clé,
-puis vous trouverez les deux clefs dans le dossier ./save_keys
+puis vous trouverez les deux clés dans le dossier ./save_keys
